@@ -13,3 +13,4 @@
 ###  Add EMC
 ###  Add more minerals
 ###  The first integration modpack is Fabric 1.20.1, which is divided into a downloadable version with a PCL2CE starter
+### [具体mod信息查看](https://github.com/tsycn/skyblock/blob/main/%E5%85%B7%E4%BD%93mod%E4%BF%A1%E6%81%AF.md?plain=1)
