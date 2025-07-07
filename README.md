@@ -1,4 +1,4 @@
-# &emsp;&emsp;&emsp;&emsp;&emsp;同山月空岛整合包
+# 同山月空岛整合包
 # The Tongshanyue Skyblock Modpack
 ##  v1.0.1-beta具体内容如下：
 ###  1.增加空岛主体为随机空岛
